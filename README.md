@@ -4,4 +4,5 @@ This repository contains the code to create deep neural network and analyze the 
 
 ### Repository Structure
 - FeedForwardNetworks: Contains code to create deep neural network with out any framework.
-- Backpropagation: Contains code to visualize the back propagation in scalar form as well in vector form.
+- ScalerBackpropagation: Contains code to execute and visualize the back propagation in scalar form.
+- VectorBackpropagation: Contains code to execute and visualize the back propagation in vector form.
